@@ -4480,10 +4480,10 @@
         "MMA</span>": [
             {
                 "time": "16:00",
-                "event": "PFL Europe - Paris",
+                "event": "Fight Nation Championship : FNC 23",
                 "channels": [
                     {
-                        "channel_name": "DAZN PPV",
+                        "channel_name": "FNCTV",
                         "channel_id": "77"
                     }
                 ]
